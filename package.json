@@ -1,0 +1,39 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learning react and integrating it with a REST API",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "file-stream-rotator": "0.0.7",
+    "foreman": "^2.0.0",
+    "fs": "0.0.1-security",
+    "morgan": "^1.7.0",
+    "mysql": "^2.12.0",
+    "path": "^0.12.7",
+    "validate.js": "^0.10.0"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPTG94/learning-react.git"
+  }
+  "keywords": [
+    "React",
+    "Node",
+    "NodeJS",
+    "Express",
+    "ExpressJS",
+    "React-Create-App",
+    "Webpack"
+  ],
+  "author": "MuseApps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MPTG94/learning-react/issues"
+  },
+  "homepage": "https://github.com/MPTG94/learning-react#readme"
+}
