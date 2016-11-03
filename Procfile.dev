@@ -1,0 +1,2 @@
+web: cd client && npm start
+api: set NODE_ENV=development&& node server/index.js
